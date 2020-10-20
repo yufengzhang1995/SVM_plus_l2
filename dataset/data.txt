@@ -1,0 +1,2 @@
+mnist_data: with privileged information and randomly generated label uncertainty( follow 0.5-1 uniform distribution)  
+synthetic_data: with privileged information and randomly generated label uncertainty( follow 0-1 uniform distribution)  
