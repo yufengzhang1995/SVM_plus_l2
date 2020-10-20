@@ -1,0 +1,1 @@
+# compare performance and computation time of LULUPAPI, LULUPI and LUPAPI with standard SVM
