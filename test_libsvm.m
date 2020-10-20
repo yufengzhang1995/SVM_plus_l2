@@ -12,6 +12,7 @@
 % load data and utils
 addpath('./utils');
 addpath('./matlab')
+addpath('./dataset')
 load('mnist_plus.mat');
 
 % preprocessing data with L1-normlaization
