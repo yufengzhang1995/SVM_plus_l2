@@ -1,4 +1,4 @@
-# SVM_plus_l2
+# $SVM_{p+}-l2$
 **Using SVM-l2 based model for binary classification: for LULUPI, LUPAPI and LULUPAPI efficient computation**
 
 Repo for 'Increasing efficiency of SVMp+ for handling missing values in healthcare prediction.'
