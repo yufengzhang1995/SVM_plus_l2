@@ -1,10 +1,5 @@
 
-Repo for 'Increasing efficiency of SVMp+ for handling missing values in healthcare prediction.'
-
-
-- LULUPI: Learning Using Privileged Information with Label Uncertainty  
-- LUPAPI: Learning Using Partially Available Privileged Information  
-- LULUPAI: Learning Using Partially Available Privileged Information with Label Uncertainty
+- # Repo for 'Increasing efficiency of SVMp+ for handling missing values in healthcare prediction.'
 
 - # SVM_plus_l2
 
